@@ -1,5 +1,5 @@
 import 'package:flutter/rendering.dart';
-import 'package:swipable_stack/src/swipable_stack.dart';
+import 'package:swipable_vario_edite/swipable_stack.dart';
 
 abstract class SwipeProperties {
   const SwipeProperties({

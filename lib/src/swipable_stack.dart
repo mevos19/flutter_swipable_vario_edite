@@ -3,7 +3,7 @@ import 'dart:math' as math;
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:sprung/sprung.dart';
-import 'package:swipable_stack/src/model/swipe_properties.dart';
+import 'package:swipable_vario_edite/src/model/swipe_properties.dart';
 
 part 'animation/animation.dart';
 part 'callback/callbacks.dart';
