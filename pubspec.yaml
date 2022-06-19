@@ -1,0 +1,14 @@
+name: swipable_vario_edite
+description: A widget for stacking cards, which users can swipe horizontally and vertically with beautiful animations like Tinder.
+version: 2.0.0
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  sprung: ^3.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic_mono:
+
